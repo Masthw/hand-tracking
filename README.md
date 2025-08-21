@@ -18,8 +18,8 @@ Um projeto em **Python** que utiliza **MediaPipe** e **OpenCV** para detectar m√
 1. Clonar o reposit√≥rio:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/meu-projeto.git
-cd meu-projeto
+git clone https://github.com/Masthw/hand-tracking.git
+cd hand-tracking
 ```
 
 2. Criar e ativar o ambiente virtual:
